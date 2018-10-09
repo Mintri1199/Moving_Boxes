@@ -1,5 +1,5 @@
-# Game-Starter-Empty
+Moving Boxes
 
-Empty SpriteKit project for MOB 1.1
+A fun little game about tapping boxes for MOB 1.1
 
-This is an empty SpriteKit project that contains the minimum needed to get started with SpriteKit. 
+The game is using BetterGameScene.swift because it has more features
